@@ -1,0 +1,12 @@
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
+console.log('Prueba ejercicios');
